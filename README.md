@@ -14,7 +14,7 @@ You will create an HTML page that takes two number inputs and allows the user to
 ### Steps:
 1. Create an HTML file (index.html).
 2. Add a form with:
-  * Two input fields for the numbers (num1 and num2).
+  * Two input fields for the numbers (num1 and num2). (Try out type="number")
   *  A dropdown (select) with four options: +, -, *, /.
   *  A submit button.
 
